@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./euripideselectr00eurigoog_0009.png"; bbox 0 0 3060 5046; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 66 190 591 423">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 66 190 591 423">
+     <span class='ocr_line' id='line_1_1' title="bbox 66 190 591 423; baseline 0.025 -14"><span class='ocrx_word' id='word_1_1' title='bbox 66 402 69 409; x_wconf 83' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 116 190 235 389; x_wconf 48' lang='grc' dir='ltr'>ᾆε</span> <span class='ocrx_word' id='word_1_3' title='bbox 271 270 375 413; x_wconf 57' lang='lat' dir='ltr'>ja.</span> <span class='ocrx_word' id='word_1_4' title='bbox 415 286 591 423; x_wconf 62' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 603 1040 1151 1377">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 603 1040 1151 1377">
+     <span class='ocr_line' id='line_1_2' title="bbox 722 1040 1016 1105; baseline -0.01 -8"><span class='ocrx_word' id='word_1_5' title='bbox 722 1043 827 1097; x_wconf 80' lang='lat'>1885.</span> <span class='ocrx_word' id='word_1_6' title='bbox 852 1040 936 1095; x_wconf 78' lang='lat' dir='ltr'>Jan.</span> <span class='ocrx_word' id='word_1_7' title='bbox 964 1041 1016 1105; x_wconf 88' lang='lat'>21,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 625 1168 947 1236; baseline 0 -1"><span class='ocrx_word' id='word_1_8' title='bbox 625 1191 632 1209; x_wconf 82' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_9' title='bbox 806 1168 888 1236; x_wconf 72' lang='lat' dir='ltr'><strong>Gif&#39;t</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 905 1181 947 1235; x_wconf 87' lang='lat' dir='ltr'>of</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 603 1310 1151 1377; baseline -0.004 -4"><span class='ocrx_word' id='word_1_11' title='bbox 603 1319 675 1373; x_wconf 82' lang='lat' dir='ltr'>The</span> <span class='ocrx_word' id='word_1_12' title='bbox 694 1312 803 1376; x_wconf 78' lang='lat' dir='ltr'>Heirs</span> <span class='ocrx_word' id='word_1_13' title='bbox 821 1310 864 1376; x_wconf 76' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_14' title='bbox 883 1315 920 1377; x_wconf 88' lang='lat'>0.</span> <span class='ocrx_word' id='word_1_15' title='bbox 946 1314 983 1376; x_wconf 88' lang='lat'>0.</span> <span class='ocrx_word' id='word_1_16' title='bbox 1010 1318 1151 1375; x_wconf 79' lang='lat' dir='ltr'><strong>Feltom</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1534 5046">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1534 5046">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1534 5046; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 1534 5046; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
